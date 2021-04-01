@@ -1,0 +1,98 @@
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.exe.config
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.exe
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.pdb
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Login.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.exe
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.pdb
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Register.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Home.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Business.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ParliamentWork.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.VotingPortal.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.GetInvolved.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.VisitingParliament.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Appropriation.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Bail_Amendment_.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.CodeofConductfofMembersofParliament.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.CommitteesforSpecial.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.EmploymentofWomen.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Finance.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.IntellectualProperty.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.LegislativeStanding.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.MinimumWages.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.MinisterialConsultative.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SectoralOversight.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.StandingOrdersofParliament.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Committees.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SelectCommitee.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ActsAndBill.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.hansards.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.order.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.StandingOrder.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ParliamentLive.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Vote.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.DiscussionForum.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.siva.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Budget.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Prorogation.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.TheLeges.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Contackmp.resources
+C:\Users\User\OneDrive\Desktop\IP\Parliament e-Network for Sri Lanka\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SpecialTask.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.exe.config
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.exe
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\bin\Debug\Parliament e-Network for Sri Lanka.pdb
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ActsAndBill.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Appropriation.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Bail_Amendment_.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Budget.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Business.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.CodeofConductfofMembersofParliament.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Committees.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.CommitteesforSpecial.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Contackmp.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.DiscussionForum.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.EmploymentofWomen.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Finance.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.GetInvolved.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.hansards.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Home.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.IntellectualProperty.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.LegislativeStanding.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Login.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.MinimumWages.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.MinisterialConsultative.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.order.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ParliamentLive.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.ParliamentWork.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Prorogation.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Register.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SectoralOversight.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SelectCommitee.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.siva.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.SpecialTask.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.StandingOrder.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.StandingOrdersofParliament.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.TheLeges.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.VisitingParliament.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.Vote.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament_e_Network_for_Sri_Lanka.VotingPortal.resources
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.exe
+C:\Users\User\OneDrive\Desktop\Desktop Application\Parliament e-Network for Sri Lanka\obj\Debug\Parliament e-Network for Sri Lanka.pdb
